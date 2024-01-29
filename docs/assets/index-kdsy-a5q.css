@@ -1,1 +1,33 @@
-*{padding:0;margin:0;box-sizing:border-box}.list-card{list-style:none;height:250px}.title-card{height:30%;overflow:hidden;width:100%}.title-card h4{font-size:15px;text-align:center}.img-card{min-height:70%;object-fit:cover}.tite{background-image:url(/assets/loading-RWzxzSQc.gif);background-size:cover;height:250px;width:250px}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+.list-card {
+    list-style: none;
+    height: 250px
+}
+
+.title-card {
+    height: 30%;
+    overflow: hidden;
+    width: 100%
+}
+
+.title-card h4 {
+    font-size: 15px;
+    text-align: center
+}
+
+.img-card {
+    min-height: 70%;
+    object-fit: cover
+}
+
+.tite {
+    background-image: url(./assets/loading-RWzxzSQc.gif);
+    background-size: cover;
+    height: 250px;
+    width: 250px
+}
